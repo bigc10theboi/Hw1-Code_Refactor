@@ -91,7 +91,6 @@ p {
     color: #ffffff;
 }
 
-
 .benefitclass {
     margin-bottom: 10px;
     text-align: center;
@@ -103,7 +102,6 @@ p {
     max-width: 150px;
 }
 
-
 .Navbarpiece {
     margin-bottom: 20px;
     padding: 50px;
@@ -113,19 +111,14 @@ p {
     color: #ffffff;
 }
 
-
 .Navbarpiece img {
     max-height: 200px;
 }
-
-
 
 .Navbarpiece h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-
 
 .footer {
     padding: 30px;
